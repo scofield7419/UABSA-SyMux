@@ -3,6 +3,11 @@ Resources for IJCAI2022 paper: [Inheriting the Wisdom of Predecessors: A Multipl
 ](https://www.ijcai.org/proceedings/2022/0572.pdf)
 
 ----
+See the [project page](https://haofei.vip/UABSA/) for more details.
+
+
+----
+
 
 ## Seven subtasks of ABSA by unification:
 
